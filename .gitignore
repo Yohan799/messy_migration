@@ -1,14 +1,14 @@
 # Python bytecode
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+.pyc
+.pyo
+.pyd
 
 # Environment files
 .env
 
 # SQLite database
-*.db
+.db
 users.db
 
 # Virtual environments
@@ -16,10 +16,7 @@ venv/
 .env/
 .venv/
 
-# Testing cache
 .pytest_cache/
-
-
 
 
 SECRET_KEY=your-secret-key-change-in-production
