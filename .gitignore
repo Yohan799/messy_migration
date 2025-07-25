@@ -1,3 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# SQLite database
+*.db
+users.db
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Testing cache
+.pytest_cache/
+
+
+
+
 SECRET_KEY=your-secret-key-change-in-production
 JWT_SECRET_KEY=your-jwt-secret-change-in-production
 DATABASE_URL=sqlite:///users.db
