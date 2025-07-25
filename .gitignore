@@ -1,0 +1,4 @@
+SECRET_KEY=your-secret-key-change-in-production
+JWT_SECRET_KEY=your-jwt-secret-change-in-production
+DATABASE_URL=sqlite:///users.db
+FLASK_ENV=development
