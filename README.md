@@ -11,7 +11,7 @@ A fully working Flask-based API with JWT auth, CRUD, validation, tests, and data
 
 ```bash
 git clone https://github.com/your-username/messy_migration.git
-cd messy-migration
+cd messy_migration
 ```
 
 ### 📦 2. Install Requirements
